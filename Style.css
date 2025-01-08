@@ -1,0 +1,121 @@
+/* sectionHome */
+.bg-container{
+    
+    /* background-color: lightblue; */
+    background-image:url("https://img.freepik.com/free-photo/beautiful-shot-sea-with-mountain-distance-clear-sky_181624-2248.jpg?t=st=1724757913~exp=1724761513~hmac=c55993a1764a9c50e781a4c86406e729c8385fa8dfc0067a3a4bc0daa6799dde&w=1380") ;
+    height: 100vh;
+    /* width: 50vw; */
+    background-size: cover;
+}
+
+.tourism-card{
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 5px;
+}
+
+.button{
+    height: 36px;
+    width: 138px;
+    background-color: #615ae0;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.main-heading{
+    color: blue;
+    font-family: monospace;
+    font-size: 28px;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.paragraph{
+    color: rgba(19, 16, 16, 0.724);
+}  
+/* sectionHome */
+
+/* sectionFavouritePlaces */
+.favourite-places-bg-container{
+    
+    /* background-color: lightblue; */
+    background-image:url("https://as2.ftcdn.net/v2/jpg/06/22/63/77/1000_F_622637728_e2rnSaSC4sEsSjGjF06FncGN2Y1IMv2a.jpg") ;
+    height: 100vh;
+    /* width: 50vw; */
+    background-size: cover;
+}
+.favourite-places-heading{
+    color: white;
+    font-size: 28px;
+    font-family: 'Roboto';
+    font-weight:bold ;  
+    padding: 24px;
+}
+.favourite-places-card-container{
+    background-color: white;
+    border-radius:8px;
+    padding: 16px;
+    margin: 15px;
+}
+.favourite-places-card-heading{
+    color: #0f0e46;
+    font-size: 23px;
+    font-family: 'Roboto';
+    font-weight:bold ; 
+}
+.favourite-places-card-description{
+    color: #6c6b70;
+    font-family:'Roboto';
+    font-size: 13px;
+}
+.favourite-places-card-image{
+    width: 80px;
+    height: 100px;
+}
+/* sectionFavouritePlaces */
+
+/*  sectionTajMahalDetailedView  */
+.detailed-view-bg-container{
+    
+    /* background-color: lightblue; */
+    background-image:url("https://img.freepik.com/free-photo/mesmerizing-shot-crystal-blue-ocean-waves_181624-48854.jpg?t=st=1724908170~exp=1724911770~hmac=f26f4abfc30195c19497f58dff7d75ebb109bd13f5f943cc1ae1a2cc141d172a&w=996") ;
+    height: 100vh;
+    /* width: 50vw; */
+    background-size: cover;
+}
+.detailed-view-heading{
+   color: white;
+   font-size: 22px;
+   font-family: "Roboto";
+   font-weight: bold;
+   padding: 24px;
+}
+.detailed-view-card-container{
+   background-color: white;
+   border-bottom-right-radius:8px;
+   border-bottom-left-radius: 8px;
+   margin: 24px;
+}
+
+.detailed-view-card-heading{
+color: #0f0e46;
+font-size: 24px;
+font-family: "Roboto";
+font-weight: bold;
+}
+.detailed-view-card-description{
+    color: #6c6b70;
+    font-size: 13px;
+    font-family: 'Roboto';
+}
+.detailed-view-card-text-container{
+    padding: 16px;
+}
+/*  sectionTajMahalDetailedView  */
+.unordered-list{
+    list-style-type: circle;
+}
